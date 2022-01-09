@@ -1,5 +1,5 @@
 # Actions train a model on Azure Machine Learning
-name: Azure Machine Learning training and deployment
+name: Infra Deployment and Training
 on:
   push:
     branches:
